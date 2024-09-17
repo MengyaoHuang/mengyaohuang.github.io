@@ -7,7 +7,7 @@ classes: wide
 
 <style>
   body {
-    font-family: Arial;
+    font-family: Calibri;
     font-size: 20px;
   }
 </style>
