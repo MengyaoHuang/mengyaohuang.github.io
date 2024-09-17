@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengyao Huang"
-  avatar           : "/assets/imgs/mengyaohuang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/imgs/mengyaohuang2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate in Marketing"
   location         : "Berkeley, CA, 94720"
   # email            :
@@ -165,7 +165,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _assets/imgs/mengyaohuang.jpg
+  - _assets/imgs/mengyaohuang2.jpg
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
