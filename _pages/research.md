@@ -19,21 +19,15 @@ classes: wide
 </style>
 
 <p class="section-header">Papers Under Review/Revision</p>
-
-<p class="section-header">Selected Research in Progress</p>
-<ul>
-
-
-</style>
-
-<p class="section-header">Papers Under Review/Revision</p>
 <ul>
   <li>
     Huang, Mengyao and Longxiu Tian, “Learning Customer Heterogeneity from Aggregate-Response Online Experiments”.
     <ul>
-      <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer Conference)</li>
-      <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
+      <li>Presentations: INFORMS Marketing Science Conference 2022, 18th Annual Bass FORMS Conference and 34th Annual POMS Conference </li>
     </ul>
   </li>
 </ul>
+
+<p class="section-header">Selected Research in Progress</p>
+<ul>
 
