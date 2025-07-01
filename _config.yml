@@ -324,4 +324,8 @@ defaults:
       comments: # true
       share: true
       related: true
-    
+      
+assets:
+  css:
+    - /assets/css/custom.css
+
