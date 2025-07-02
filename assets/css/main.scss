@@ -4,15 +4,21 @@
 
 @charset "utf-8";
 
-// Skin (dark, mint, etc.)
-@import "minimal-mistakes/skins/default"; // or replace with 'default', 'mint', etc.
+// Use a light skin
+@import "minimal-mistakes/skins/default";
 
 // Main theme styles
 @import "minimal-mistakes";
 
 /* === Custom Overrides === */
 
-/* Make avatar square and larger */
+/* Expand the container size */
+.author__avatar {
+  max-width: none !important;
+  width: auto !important;
+}
+
+/* Make the avatar image large and square */
 .author__avatar img {
   width: 600px !important;
   height: auto !important;
@@ -22,6 +28,6 @@
 
 /* Make Haas logo larger */
 .site-logo img {
-  max-height: 150px !important;
+  max-height: 100px !important;
   width: auto !important;
 }
