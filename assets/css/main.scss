@@ -31,3 +31,12 @@
   max-height: 100px !important;
   width: auto !important;
 }
+
+/* === Fix specifically for the sidebar avatar === */
+.sidebar__author .author__avatar,
+.sidebar__author .author__avatar img {
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 0 !important;
+  object-fit: cover !important;
+}
