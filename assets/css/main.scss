@@ -7,3 +7,17 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Override avatar styling */
+.author__avatar img {
+  width: 200px !important;
+  height: auto !important;
+  border-radius: 0 !important;
+  object-fit: cover;
+}
+
+/* Optional: Make Haas logo bigger */
+.site-logo img {
+  max-height: 100px !important;
+  width: auto !important;
+}
