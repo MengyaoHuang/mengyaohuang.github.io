@@ -21,7 +21,7 @@ title                    : "Mengyao Huang - Marketing"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mengyao Huang"
-description              : "Mengyao Huang - PhD Candidate in Marketing"
+description              : "Mengyao Huang - Ph.D. Candidate in Marketing"
 url                      : "https://mengyaohuang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mengyaohuang/mengyaohuang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Mengyao Huang"
   avatar           : "/assets/imgs/mengyaohuang2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate in Marketing"
-  location         : "Berkeley, CA, 94720"
-  # email            :
+  bio              : "Ph.D. Candidate in Marketing"
+  location         : "University of California, Berkeley"
+  # email          :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
