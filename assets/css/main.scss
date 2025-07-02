@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // Skin (dark, mint, etc.)
-@import "minimal-mistakes/skins/dark"; // or replace with 'default', 'mint', etc.
+@import "minimal-mistakes/skins/default"; // or replace with 'default', 'mint', etc.
 
 // Main theme styles
 @import "minimal-mistakes";
@@ -14,7 +14,7 @@
 
 /* Make avatar square and larger */
 .author__avatar img {
-  width: 200px !important;
+  width: 300px !important;
   height: auto !important;
   border-radius: 0 !important;
   object-fit: cover;
@@ -22,6 +22,6 @@
 
 /* Make Haas logo larger */
 .site-logo img {
-  max-height: 100px !important;
+  max-height: 150px !important;
   width: auto !important;
 }
